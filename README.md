@@ -1,5 +1,5 @@
 # .github
 
-> Default community health files
+> Default personal health files
 
-This repository contains all the defaults for community health. All the `gitpod-io` repository inherit (or override) them.
+This repository contains all the defaults for personal projects. All other repository inherit (or override) them.
